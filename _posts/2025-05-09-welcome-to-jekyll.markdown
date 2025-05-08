@@ -1,10 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Sam's Blog!"
 date:   2025-05-09 02:32:21 +0800
 categories: jekyll update
 ---
+`Say somthing`
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+<a href="/assets/resume1.pdf" target="_blank">Download PDF</a>
+
+<iframe src="/assets/resume1.pdf" width="100%" height="700px" style="border: none;">
+  이 브라우저는 PDF를 지원하지 않습니다. 
+  <a href="/assets/resume1.pdf">PDF 다운로드</a>
+</iframe>
+
 
 Jekyll requires blog post files to be named according to the following format:
 
